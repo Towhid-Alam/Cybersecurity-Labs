@@ -13,7 +13,7 @@ This repository contains my personal notes, learning progress, and writeups for 
 ## 📂 Rooms Completed
 
 
-Pre-Security              notes/pre_security.md      
+Pre-Security              https://github.com/Towhid-Alam/Cybersecurity-Labs/blob/main/notes/pre_security.md   
 
 Cyber Security 101      notes/cyber_security_101.md    
 
