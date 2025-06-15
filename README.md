@@ -12,10 +12,9 @@ This repository contains my personal notes, learning progress, and writeups for 
 
 ## 📂 Rooms Completed
 
-Room Name                    Link to Notes                  Tags
 
-Pre-Security              notes/pre_security.md      fundamentals, networking, linux
+Pre-Security              notes/pre_security.md      
 
-Cyber Security 101      notes/cyber_security_101.md    basics, CIA, malware
+Cyber Security 101      notes/cyber_security_101.md    
 
-SOC Level 1              notes/soc_level_1.md          SOC, SIEM, alerts, triage
+SOC Level 1              notes/soc_level_1.md          
